@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming new things, learning frameworks, hackathons. 
 - 🌱 I’m still learning the source code for opportunity. Show me something I haven't seen yet!
 - 💞️ I’m collaborating on the new react frontend for admin portal. Love how it's turning out.
-- 📫 How to reach me you can get hold me at joey7040@hotmail.com (I check my email more than my text messages)
+- 📫 How to reach me you can get hold me at jriveracode@gmail.com or slack (I check my slack more than my email).
 
 <!---
 JosephRivera-ngt/JosephRivera-ngt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
